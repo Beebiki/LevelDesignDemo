@@ -1,0 +1,545 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.35f1 (18e4db7a9996) revision 1631451'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Professional' Language: 'en' Physical Memory: 16319 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.35f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/UnityProject/LevelDesignDemo/Jungle/JungleLevelDesign
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63720
+Successfully changed project path to: D:/UnityProject/LevelDesignDemo/Jungle/JungleLevelDesign
+D:/UnityProject/LevelDesignDemo/Jungle/JungleLevelDesign
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 31.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.35f1 (18e4db7a9996)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/UnityProject/LevelDesignDemo/Jungle/JungleLevelDesign/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f08)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   30.0.15.1295
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56388
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001525 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 33.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.447 seconds
+Domain Reload Profiling:
+	ReloadAssembly (447ms)
+		BeginReloadAssembly (48ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (345ms)
+			LoadAssemblies (46ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (110ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (25ms)
+			SetupLoadedEditorAssemblies (133ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (33ms)
+				BeforeProcessingInitializeOnLoad (13ms)
+				ProcessInitializeOnLoadAttributes (61ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001288 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.740 seconds
+Domain Reload Profiling:
+	ReloadAssembly (740ms)
+		BeginReloadAssembly (114ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (14ms)
+		EndReloadAssembly (582ms)
+			LoadAssemblies (68ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (196ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (31ms)
+			SetupLoadedEditorAssemblies (225ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (58ms)
+				ProcessInitializeOnLoadAttributes (148ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (1ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1520 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.5 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1956.
+Total: 2.210500 ms (FindLiveObjects: 0.112400 ms CreateObjectMapping: 0.036000 ms MarkObjects: 2.017800 ms  DeleteObjects: 0.043800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.005272 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.760232 seconds.
+  path: Assets/ExtraPackage
+  artifactKey: Guid(71c28dd1c27c133478f0f41e08970109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage using Guid(71c28dd1c27c133478f0f41e08970109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d1aa8dfa3615559171aa8019f4a5c6d') in 0.003852 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.044289 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(099138c24d2c73642802062de419859a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(099138c24d2c73642802062de419859a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83e7857585174bd0827a1119d3e2fc42') in 0.005048 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.736714 seconds.
+  path: Assets/HYPEPOLY - Isometric Tiles Sands
+  artifactKey: Guid(04b0b4c89e93b6d4d8bf4529b1b075ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HYPEPOLY - Isometric Tiles Sands using Guid(04b0b4c89e93b6d4d8bf4529b1b075ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b351b40f337f5823231ef82a72324c2') in 0.004725 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001151 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.716 seconds
+Domain Reload Profiling:
+	ReloadAssembly (716ms)
+		BeginReloadAssembly (89ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (26ms)
+		EndReloadAssembly (575ms)
+			LoadAssemblies (68ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (204ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (29ms)
+			SetupLoadedEditorAssemblies (213ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (55ms)
+				ProcessInitializeOnLoadAttributes (139ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (1ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1514 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.4 MB.
+System memory in use after: 72.5 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1959.
+Total: 2.037800 ms (FindLiveObjects: 0.108300 ms CreateObjectMapping: 0.047800 ms MarkObjects: 1.865100 ms  DeleteObjects: 0.016100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 7.546926 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Battle Royale Show
+  artifactKey: Guid(18bb05470d8bbfa4187c0c55982a4a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Battle Royale Show using Guid(18bb05470d8bbfa4187c0c55982a4a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3abcd4e552d3d3eb27a0f5938491bf53') in 0.005708 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.373392 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Battle Royale Show/Demo
+  artifactKey: Guid(d58d17586593e8b42955e7f2326ab5f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Battle Royale Show/Demo using Guid(d58d17586593e8b42955e7f2326ab5f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c432e49328de0aec5828947b12559b7') in 0.003780 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.657493 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Battle Royale Show/Demo/Scenes
+  artifactKey: Guid(4d99f999aea09f2409320d5f52393195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Battle Royale Show/Demo/Scenes using Guid(4d99f999aea09f2409320d5f52393195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc3d09bd07178873f146f90966cff702') in 0.001264 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.476833 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Battle Royale Show/Demo/Scenes/All Models.unity
+  artifactKey: Guid(58fa148b0f6461140bcb25e8cc8651ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Battle Royale Show/Demo/Scenes/All Models.unity using Guid(58fa148b0f6461140bcb25e8cc8651ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fa87a3c333c63fd1bbdb923a3dc76d4') in 0.004625 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.203813 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo
+  artifactKey: Guid(0457b79978c5c1c4a85f7558c769b967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo using Guid(0457b79978c5c1c4a85f7558c769b967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9fd981cf8828591b5266c5ad0ecbf14') in 0.001611 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.123549 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/All Models.unity
+  artifactKey: Guid(bc98e8085f55b5e49a092258d68a0ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/All Models.unity using Guid(bc98e8085f55b5e49a092258d68a0ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fb0ff13606f66d298505df2a8eb4c41') in 0.001510 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.917555 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator
+  artifactKey: Guid(ae269e4bbcd9d474d96a3f7b40e29ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator using Guid(ae269e4bbcd9d474d96a3f7b40e29ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d6462c966c317a4134e7a62576f1bd1') in 0.004688 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.043733 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Bridge 2 (1).prefab
+  artifactKey: Guid(b70ea82254e23c646b91203b75db2135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Bridge 2 (1).prefab using Guid(b70ea82254e23c646b91203b75db2135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faaba80b48d0be65a6ef1ae2d22e734f') in 0.131879 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Gem.prefab
+  artifactKey: Guid(9c90330d1eda1504e979144091ebddb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Gem.prefab using Guid(9c90330d1eda1504e979144091ebddb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a4bb932b82e2508276f18c50d85d8ca') in 0.071542 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Canopy.prefab
+  artifactKey: Guid(6eeb63f5313e94445924a5a05ad1d997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Canopy.prefab using Guid(6eeb63f5313e94445924a5a05ad1d997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af98f539e599fbb6b6ca822aed5d0743') in 0.011403 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Bridge 2 (4).prefab
+  artifactKey: Guid(02776206e704efb498202fb0799d5693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Bridge 2 (4).prefab using Guid(02776206e704efb498202fb0799d5693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34b7eecc1d34e40ad796725636356a14') in 0.009262 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Ladder 9.prefab
+  artifactKey: Guid(810794c46e77015469b54ded7e584fbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Ladder 9.prefab using Guid(810794c46e77015469b54ded7e584fbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d34892f0f549bb85d358c542ee8babc') in 0.008374 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Coin.prefab
+  artifactKey: Guid(4c724b252b1d96749b34f24dc65ea6de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Coin.prefab using Guid(4c724b252b1d96749b34f24dc65ea6de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c9e0100cc2edd86074dc00ae7a01f3a') in 0.008434 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Triple.prefab
+  artifactKey: Guid(ddfa14f7b7129b44f8e35a29554e279d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Triple.prefab using Guid(ddfa14f7b7129b44f8e35a29554e279d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cbb378723c20fbefa1170d12c0a79bc') in 0.008081 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Ladder 10.prefab
+  artifactKey: Guid(96f8f32b21ee1aa42816682643a6171a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Ladder 10.prefab using Guid(96f8f32b21ee1aa42816682643a6171a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faa607f2da99d84580990bb043e63250') in 0.008733 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Ladder 11.prefab
+  artifactKey: Guid(43f1995a2be6f084492ab8cf4a47f0ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Ladder 11.prefab using Guid(43f1995a2be6f084492ab8cf4a47f0ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea1e76ab4ea1ee24c5a358033d823378') in 0.008146 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Start.prefab
+  artifactKey: Guid(1f7e3309b6328bc46bcd7b9c0dcb1959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Start.prefab using Guid(1f7e3309b6328bc46bcd7b9c0dcb1959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6afe1b3136cf428559bc172031789ae0') in 0.009267 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Bridge 2.prefab
+  artifactKey: Guid(118143dc6c43b4849b118d37d3339462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Bridge 2.prefab using Guid(118143dc6c43b4849b118d37d3339462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2764b52805ef45f5b9b7a441c7c405b') in 0.008193 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Ladder 5.prefab
+  artifactKey: Guid(cfb63bb3dafdebb48abdc4a051f3460e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Ladder 5.prefab using Guid(cfb63bb3dafdebb48abdc4a051f3460e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db308e892aefca37f6983a9f89c51192') in 0.008584 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Straight.prefab
+  artifactKey: Guid(5b9caf64634376a45a2b3a8f108f41ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Straight.prefab using Guid(5b9caf64634376a45a2b3a8f108f41ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eefc7f7d7f20bab1bf9f06842903ff37') in 0.008727 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Ladder 3.prefab
+  artifactKey: Guid(6f5bc008489e98147b3fc7f2ecd15798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Ladder 3.prefab using Guid(6f5bc008489e98147b3fc7f2ecd15798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4085f0ed62699c41c72bddeb46d315a7') in 0.008478 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Ladder 6.prefab
+  artifactKey: Guid(fc34e9218c10a4f458e8b16aae646bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Ladder 6.prefab using Guid(fc34e9218c10a4f458e8b16aae646bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c64505e9a57702030acc5a1296406aa6') in 0.008507 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Bridge 2 (3).prefab
+  artifactKey: Guid(76cebe3007372bc4e94331e0a655aa66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Bridge 2 (3).prefab using Guid(76cebe3007372bc4e94331e0a655aa66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35fb17b18827352e07708b3f220adbd2') in 0.008171 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Ladder 4.prefab
+  artifactKey: Guid(27cc12c94ba74b348a99f095847396c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Ladder 4.prefab using Guid(27cc12c94ba74b348a99f095847396c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e8d67d9abff8f53215effeb45677806') in 0.008160 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Ladder 7.prefab
+  artifactKey: Guid(5699182f424c27b4e9ebe2e1968af809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Ladder 7.prefab using Guid(5699182f424c27b4e9ebe2e1968af809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bcfc79dd7ede19f6aba8815eeab4403') in 0.008861 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Ladder 1.prefab
+  artifactKey: Guid(3ed02f70b114e5a4c89a1b8cf6f57050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Ladder 1.prefab using Guid(3ed02f70b114e5a4c89a1b8cf6f57050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04c987db33731e57ef8a837fe5056023') in 0.007994 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Bridge 2 (7).prefab
+  artifactKey: Guid(3bc122753ca202f41b8448159444e2eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Bridge 2 (7).prefab using Guid(3bc122753ca202f41b8448159444e2eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '440203b463f513488bfd15766b87d32a') in 0.008992 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Bridge.prefab
+  artifactKey: Guid(5601f6dba225d76489a5b7e14a44240f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Bridge.prefab using Guid(5601f6dba225d76489a5b7e14a44240f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20fa3b393c1e6cc82c901c9aa8ef0e92') in 0.008237 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Ladder 8.prefab
+  artifactKey: Guid(139097093744ccf48bb8374325533d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Ladder 8.prefab using Guid(139097093744ccf48bb8374325533d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c169726cf4887947c2cfb75d82090600') in 0.008139 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Bridge 2 (5).prefab
+  artifactKey: Guid(3c4e853b434a2114bbf45337a2f0c97d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Bridge 2 (5).prefab using Guid(3c4e853b434a2114bbf45337a2f0c97d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd303be6440cc807d60c7a87e968b4f25') in 0.008104 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Bridge 2 (6).prefab
+  artifactKey: Guid(123dc3433047e4246aa173022e488c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Bridge 2 (6).prefab using Guid(123dc3433047e4246aa173022e488c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8b529374cbff4e83fb21525961ee0fa') in 0.007830 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Portal 1.prefab
+  artifactKey: Guid(560c1437502960a4da3033beae1a31a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Portal 1.prefab using Guid(560c1437502960a4da3033beae1a31a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1bd564c3977dd692418fc79f29e8314') in 0.009756 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Crossroad.prefab
+  artifactKey: Guid(704b510f4c1e07e4a88dd5342e9944ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Crossroad.prefab using Guid(704b510f4c1e07e4a88dd5342e9944ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a07a2a4bc5589e863243bc4a2a994ce4') in 0.008398 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile End 1.prefab
+  artifactKey: Guid(fdc6151d5d7eb5d4987e173cd2536ebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile End 1.prefab using Guid(fdc6151d5d7eb5d4987e173cd2536ebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7859b8b8653a7141091971efb5f3674d') in 0.011474 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Bridge 2 (2).prefab
+  artifactKey: Guid(9bc35573f1b07c540b8beb5081d26507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Bridge 2 (2).prefab using Guid(9bc35573f1b07c540b8beb5081d26507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27afcac16157d2098852ac5eb62babba') in 0.007930 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Canopy 1.prefab
+  artifactKey: Guid(f1eb2d15db99bde45951b26de5cee2ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Canopy 1.prefab using Guid(f1eb2d15db99bde45951b26de5cee2ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcebab6d28cad733a529b82a70f5dee9') in 0.009088 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Portal.prefab
+  artifactKey: Guid(9d60198ba47e01d4988a2e4c0042949f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Portal.prefab using Guid(9d60198ba47e01d4988a2e4c0042949f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4a0c77aaf8409f11955ea3f8a07a46c') in 0.009749 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Ladder.prefab
+  artifactKey: Guid(60fa2156605878846878663745594625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Ladder.prefab using Guid(60fa2156605878846878663745594625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '142ca2955d55e3ae22d769fcc3e3b65f') in 0.008417 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile End.prefab
+  artifactKey: Guid(8fdeb355f24700647be0f1a3347d4de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile End.prefab using Guid(8fdeb355f24700647be0f1a3347d4de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '437af24cb7cba1302557c2b04144f2c9') in 0.008288 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Rotate.prefab
+  artifactKey: Guid(dd17383b70c4c154abdbaaecdece5852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Rotate.prefab using Guid(dd17383b70c4c154abdbaaecdece5852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '368d866cf5f21c661ed5ddba7af2c107') in 0.008632 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Ladder 2.prefab
+  artifactKey: Guid(49a17fd4fa79a304a863f19b31b27d0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/For map generator/Tile Ladder 2.prefab using Guid(49a17fd4fa79a304a863f19b31b27d0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c8bb83ce9ce95c52e42b8b5ba22a4b7') in 0.008381 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.770868 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/Materials
+  artifactKey: Guid(3d8386d22eaa89f4abfc00c483673069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/Materials using Guid(3d8386d22eaa89f4abfc00c483673069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa03d5a233a5d5f27b4a9aa7b9c93f07') in 0.005552 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.047212 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/Materials/Water.mat
+  artifactKey: Guid(b561a12a8255d1242aeeb8edfd596ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/Materials/Water.mat using Guid(b561a12a8255d1242aeeb8edfd596ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64573639da61b34453a3162dc2d7a149') in 0.208834 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/Materials/WNC_Texture.png
+  artifactKey: Guid(57d35bb67d2f53d4b9bf98cf81829b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/Materials/WNC_Texture.png using Guid(57d35bb67d2f53d4b9bf98cf81829b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dce7c02d3c24f65ae3f28ce007664994') in 0.070498 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/Materials/WNC Material.mat
+  artifactKey: Guid(62143ffb7c2bf6b40b77d5b716529c5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/Materials/WNC Material.mat using Guid(62143ffb7c2bf6b40b77d5b716529c5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4825d5b5e84d119032398cc9cd48991') in 0.008767 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.536901 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(569c80d9a99973241a08ba0116017033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(569c80d9a99973241a08ba0116017033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0971edcca223c3c50b8028acb0465db5') in 0.003734 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.994979 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/Sprites
+  artifactKey: Guid(8197064cfc0b0284fbfb3bc7f2784b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/Sprites using Guid(8197064cfc0b0284fbfb3bc7f2784b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11179a7ae1ede66ae80f23422cd23ce7') in 0.005421 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.049895 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/Sprites/LogoIcon.png
+  artifactKey: Guid(4bcf35edbbee1fc4eb0c25e343d0dda6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/Sprites/LogoIcon.png using Guid(4bcf35edbbee1fc4eb0c25e343d0dda6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a21e6993a0494778c5e9edb7948f8701') in 0.016808 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/Sprites/wand and circles.png
+  artifactKey: Guid(e624733d682132944a4e82d25e690a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/Sprites/wand and circles.png using Guid(e624733d682132944a4e82d25e690a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ccdb390c68bd826a4a122a078eb7c67') in 0.010567 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.829350 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Models
+  artifactKey: Guid(e6e1669d25da6d543b0341501e56d2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Models using Guid(e6e1669d25da6d543b0341501e56d2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8c54a64102d5d21df3449f094c4f7cd') in 0.004932 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.043160 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Models/HYPEPOLY_Isometric_Tiles_Sands.fbx
+  artifactKey: Guid(572785b9fcc77a340b8f86706332e327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Models/HYPEPOLY_Isometric_Tiles_Sands.fbx using Guid(572785b9fcc77a340b8f86706332e327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16a47d3c63e403ad69f466c3b5d2a89b') in 1.557834 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.068079 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Prefabs
+  artifactKey: Guid(c227a871a40150a4792825a074df0e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Prefabs using Guid(c227a871a40150a4792825a074df0e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f452af752f72da0164c434477c25cde') in 0.001583 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.225990 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Prefabs/Tiles
+  artifactKey: Guid(f69a3fc961f0fd84493df2416a8da171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Prefabs/Tiles using Guid(f69a3fc961f0fd84493df2416a8da171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28281a919ab968e853438ad6b97f42a4') in 0.005146 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.058702 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Prefabs/Tiles/Tile Water.prefab
+  artifactKey: Guid(006905e8f1acc2346a97cfb4f8b8a8a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Prefabs/Tiles/Tile Water.prefab using Guid(006905e8f1acc2346a97cfb4f8b8a8a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8f4e6dbcb4bda3bfd2460dc8fc8be97') in 0.011060 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 36.179354 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Prefabs 1
+  artifactKey: Guid(f65d585c16594fc4bb2a3c590be6a0b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Prefabs 1 using Guid(f65d585c16594fc4bb2a3c590be6a0b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a69ae15c0344b3d8df8ff894e3cec43') in 0.003955 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
