@@ -15,11 +15,11 @@ D:/UnityProject/LevelDesignDemo/Goobers_Level_Design
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-51447
+57136
 Successfully changed project path to: D:/UnityProject/LevelDesignDemo/Goobers_Level_Design
 D:/UnityProject/LevelDesignDemo/Goobers_Level_Design
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 58.22 ms, found 5 plugins.
+Refreshing native plugins compatible for Editor in 59.65 ms, found 6 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.35f1 (18e4db7a9996)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/Resources/UnitySubsystems
@@ -35,75 +35,75 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56664
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56240
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001649 seconds.
+Registered in 0.001573 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 60.73 ms, found 5 plugins.
+Refreshing native plugins compatible for Editor in 59.89 ms, found 6 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.502 seconds
+- Completed reload, in  0.475 seconds
 Domain Reload Profiling:
-	ReloadAssembly (502ms)
-		BeginReloadAssembly (49ms)
+	ReloadAssembly (475ms)
+		BeginReloadAssembly (48ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (395ms)
-			LoadAssemblies (48ms)
+		EndReloadAssembly (373ms)
+			LoadAssemblies (47ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (125ms)
+			SetupTypeCache (112ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (25ms)
-			SetupLoadedEditorAssemblies (162ms)
+			SetupLoadedEditorAssemblies (158ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (61ms)
+				RefreshPlugins (60ms)
 				BeforeProcessingInitializeOnLoad (13ms)
-				ProcessInitializeOnLoadAttributes (62ms)
-				ProcessInitializeOnLoadMethodAttributes (22ms)
+				ProcessInitializeOnLoadAttributes (60ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002159 seconds.
+Registered in 0.002390 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 62.75 ms, found 5 plugins.
+Refreshing native plugins compatible for Editor in 59.97 ms, found 6 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.926 seconds
+- Completed reload, in  0.903 seconds
 Domain Reload Profiling:
-	ReloadAssembly (926ms)
-		BeginReloadAssembly (123ms)
+	ReloadAssembly (903ms)
+		BeginReloadAssembly (117ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (16ms)
-		EndReloadAssembly (756ms)
-			LoadAssemblies (78ms)
+			CreateAndSetChildDomain (15ms)
+		EndReloadAssembly (741ms)
+			LoadAssemblies (75ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (247ms)
+			SetupTypeCache (242ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (44ms)
-			SetupLoadedEditorAssemblies (299ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (295ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (63ms)
+				RefreshPlugins (60ms)
 				BeforeProcessingInitializeOnLoad (71ms)
-				ProcessInitializeOnLoadAttributes (147ms)
+				ProcessInitializeOnLoadAttributes (146ms)
 				ProcessInitializeOnLoadMethodAttributes (10ms)
 				AfterProcessingInitializeOnLoad (4ms)
 				EditorAssembliesLoaded (0ms)
@@ -113,14 +113,14 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.75 ms, found 5 plugins.
+Refreshing native plugins compatible for Editor in 0.73 ms, found 6 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2942 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 133.8 MB.
-System memory in use after: 134.1 MB.
+Unloading 3200 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.3 MB.
+System memory in use after: 141.5 MB.
 
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 3375.
-Total: 2.693900 ms (FindLiveObjects: 0.202300 ms CreateObjectMapping: 0.103800 ms MarkObjects: 2.363700 ms  DeleteObjects: 0.023600 ms)
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3633.
+Total: 2.603900 ms (FindLiveObjects: 0.217800 ms CreateObjectMapping: 0.102500 ms MarkObjects: 2.261200 ms  DeleteObjects: 0.021700 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -134,298 +134,367 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/ExtraPackage/AllIn1SpriteShader/Textures/GradientTextures/palette-downwell.png
-  artifactKey: Guid(279657edc397ece4b8029c727adf6ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ExtraPackage/AllIn1SpriteShader/Textures/GradientTextures/palette-downwell.png using Guid(279657edc397ece4b8029c727adf6ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '901fda5e8d17814495ad15c29b816e2d') in 0.082476 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002130 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.67 ms, found 5 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.777 seconds
-Domain Reload Profiling:
-	ReloadAssembly (777ms)
-		BeginReloadAssembly (91ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (3ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (27ms)
-		EndReloadAssembly (640ms)
-			LoadAssemblies (73ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (234ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (35ms)
-			SetupLoadedEditorAssemblies (233ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (68ms)
-				ProcessInitializeOnLoadAttributes (144ms)
-				ProcessInitializeOnLoadMethodAttributes (10ms)
-				AfterProcessingInitializeOnLoad (4ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (1ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.71 ms, found 5 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2872 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 130.3 MB.
-System memory in use after: 130.5 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3384.
-Total: 2.761800 ms (FindLiveObjects: 0.320000 ms CreateObjectMapping: 0.105000 ms MarkObjects: 2.293700 ms  DeleteObjects: 0.042600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  path: Assets/Goobers/Prefabs/Extra_Package/Static/Environment/Fence/Fence Low_0.prefab
+  artifactKey: Guid(ee868424c6bd98540b10dffddb25b27a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Goobers/Prefabs/Extra_Package/Static/Environment/Fence/Fence Low_0.prefab using Guid(ee868424c6bd98540b10dffddb25b27a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68e8966eadc0356293b20c8e242ce45d') in 0.091633 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 3365.723956 seconds.
-  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Prefabs/Bushs
-  artifactKey: Guid(e9961fa86283a004dbcbda82b823fc26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Prefabs/Bushs using Guid(e9961fa86283a004dbcbda82b823fc26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb34ee9f01ed6d0cccb68ab918e13c05') in 0.009367 seconds 
+  Time since last request: 0.044920 seconds.
+  path: Assets/Goobers/Prefabs/Extra_Package/Static/Obstakles by parts/Balancing Platform Long_7.prefab
+  artifactKey: Guid(6adaa031145b22d47a6f7d1a7120518e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Goobers/Prefabs/Extra_Package/Static/Obstakles by parts/Balancing Platform Long_7.prefab using Guid(6adaa031145b22d47a6f7d1a7120518e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66f0ba0bbbacc70476ed501b59f6a97f') in 0.023305 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 3768.813355 seconds.
-  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/MapGenerator.unity
-  artifactKey: Guid(6ae0385d7d12765448eb3674736376ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/MapGenerator.unity using Guid(6ae0385d7d12765448eb3674736376ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afa2f9f50e48a373d674bb5ac9b6de17') in 0.005122 seconds 
+  Time since last request: 0.080276 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Battle Royale Show/Demo/Materials/WNCTexture200x200.mat
+  artifactKey: Guid(81363f3d39f5fb044989a377220df323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Battle Royale Show/Demo/Materials/WNCTexture200x200.mat using Guid(81363f3d39f5fb044989a377220df323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06abccf69090e2b0d7df2e0a8c5476d0') in 0.031263 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 5.632661 seconds.
-  path: Assets/Scenes/JungleD2.unity
-  artifactKey: Guid(220997d7596023a489fe6f10c158448a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/JungleD2.unity using Guid(220997d7596023a489fe6f10c158448a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e81feb1b1e4cb51794a509c110fbc00') in 0.005220 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002172 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.73 ms, found 5 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.772 seconds
-Domain Reload Profiling:
-	ReloadAssembly (773ms)
-		BeginReloadAssembly (91ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (29ms)
-		EndReloadAssembly (637ms)
-			LoadAssemblies (72ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (231ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (35ms)
-			SetupLoadedEditorAssemblies (234ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (69ms)
-				ProcessInitializeOnLoadAttributes (145ms)
-				ProcessInitializeOnLoadMethodAttributes (10ms)
-				AfterProcessingInitializeOnLoad (4ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (1ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.69 ms, found 5 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2872 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 130.3 MB.
-System memory in use after: 130.6 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3387.
-Total: 2.513900 ms (FindLiveObjects: 0.198800 ms CreateObjectMapping: 0.109800 ms MarkObjects: 2.186500 ms  DeleteObjects: 0.018200 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002284 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.67 ms, found 5 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.783 seconds
-Domain Reload Profiling:
-	ReloadAssembly (783ms)
-		BeginReloadAssembly (92ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (27ms)
-		EndReloadAssembly (647ms)
-			LoadAssemblies (72ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (230ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (34ms)
-			SetupLoadedEditorAssemblies (247ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (79ms)
-				ProcessInitializeOnLoadAttributes (149ms)
-				ProcessInitializeOnLoadMethodAttributes (10ms)
-				AfterProcessingInitializeOnLoad (4ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (1ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.83 ms, found 5 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2872 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 130.4 MB.
-System memory in use after: 130.6 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3390.
-Total: 2.873900 ms (FindLiveObjects: 0.280800 ms CreateObjectMapping: 0.125400 ms MarkObjects: 2.444500 ms  DeleteObjects: 0.022000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  Time since last request: 0.165871 seconds.
+  path: Assets/Goobers/Prefabs/Extra_Package/Static/Obstakles by parts/Fan.prefab
+  artifactKey: Guid(553a8181a0c2ed24b87019af03a0cf6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Goobers/Prefabs/Extra_Package/Static/Obstakles by parts/Fan.prefab using Guid(553a8181a0c2ed24b87019af03a0cf6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d3a6cd4cb64e689954a2898d9b20c65') in 0.013797 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 18383.243340 seconds.
-  path: Assets/ExtraPackage/AllIn1SpriteShader/Demo/Demo.unity
-  artifactKey: Guid(aa7236836849adb4285d82814f472ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ExtraPackage/AllIn1SpriteShader/Demo/Demo.unity using Guid(aa7236836849adb4285d82814f472ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5b983e89f0dea823d70f1dc26338306') in 0.426243 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001873 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.67 ms, found 5 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.788 seconds
-Domain Reload Profiling:
-	ReloadAssembly (788ms)
-		BeginReloadAssembly (101ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (3ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (30ms)
-		EndReloadAssembly (636ms)
-			LoadAssemblies (75ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (229ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (34ms)
-			SetupLoadedEditorAssemblies (234ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (68ms)
-				ProcessInitializeOnLoadAttributes (146ms)
-				ProcessInitializeOnLoadMethodAttributes (10ms)
-				AfterProcessingInitializeOnLoad (5ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (1ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.68 ms, found 5 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2872 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 130.4 MB.
-System memory in use after: 130.6 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3393.
-Total: 2.453000 ms (FindLiveObjects: 0.181200 ms CreateObjectMapping: 0.098000 ms MarkObjects: 2.156200 ms  DeleteObjects: 0.017100 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  Time since last request: 0.006567 seconds.
+  path: Assets/Goobers/Prefabs/Extra_Package/Static/Obstakles by parts/Platform Fan Rotated_3.prefab
+  artifactKey: Guid(5ec2fbe87cf03a9458134a306dc128ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Goobers/Prefabs/Extra_Package/Static/Obstakles by parts/Platform Fan Rotated_3.prefab using Guid(5ec2fbe87cf03a9458134a306dc128ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '021ebbf1e5cb4615ba199fac07064c1f') in 0.013675 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 871.550652 seconds.
-  path: Assets/ExtraPackage/AllIn1SpriteShader/Demo/Textures
-  artifactKey: Guid(2079251647b8b824abecc812d174a9f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ExtraPackage/AllIn1SpriteShader/Demo/Textures using Guid(2079251647b8b824abecc812d174a9f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ab2670463cf6575e5a6ea05f1e443d0') in 0.030181 seconds 
+  Time since last request: 0.050875 seconds.
+  path: Assets/Goobers/Prefabs/Extra_Package/Static/Obstakles by parts/Walls Pillar_0.prefab
+  artifactKey: Guid(ffc66ab9058fbd049b58bc44727da9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Goobers/Prefabs/Extra_Package/Static/Obstakles by parts/Walls Pillar_0.prefab using Guid(ffc66ab9058fbd049b58bc44727da9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd65e338300070e13872ed3eec3acf2b0') in 0.011832 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 37.365858 seconds.
-  path: Assets/ExtraPackage/AllIn1SpriteShader/Demo/Demo.unity
-  artifactKey: Guid(aa7236836849adb4285d82814f472ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ExtraPackage/AllIn1SpriteShader/Demo/Demo.unity using Guid(aa7236836849adb4285d82814f472ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0dd0d2dfd92e510e976d8a29b3de709') in 0.001723 seconds 
+  Time since last request: 0.022822 seconds.
+  path: Assets/Goobers/Prefabs/Extra_Package/Static/Obstakles by parts/Balancing Platform Big_15.prefab
+  artifactKey: Guid(0d953bc4b479cb143aba091db550f4c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Goobers/Prefabs/Extra_Package/Static/Obstakles by parts/Balancing Platform Big_15.prefab using Guid(0d953bc4b479cb143aba091db550f4c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a37356ccf0737eb9d73b8b5332f8f85d') in 0.011550 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.817009 seconds.
-  path: Assets/ExtraPackage/AllIn1SpriteShader/Demo/Demo2.unity
-  artifactKey: Guid(63119d9cc000fdf4b96768c82b7d49b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ExtraPackage/AllIn1SpriteShader/Demo/Demo2.unity using Guid(63119d9cc000fdf4b96768c82b7d49b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0161f89eab765edd47ee92fcf67d85f') in 0.006983 seconds 
+  Time since last request: 0.025256 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Battle Royale Show/Demo/Materials/WNCTexture.png
+  artifactKey: Guid(ee04b37b15faa50449d53ef94ddedf7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Battle Royale Show/Demo/Materials/WNCTexture.png using Guid(ee04b37b15faa50449d53ef94ddedf7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83d29edbdbb461e911017f70530943f7') in 0.014195 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 15.435230 seconds.
-  path: Assets/Scenes/JungleD2.unity
-  artifactKey: Guid(220997d7596023a489fe6f10c158448a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/JungleD2.unity using Guid(220997d7596023a489fe6f10c158448a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '890c23f9bf43a701b00310b9385a4880') in 0.001817 seconds 
+  Time since last request: 0.004302 seconds.
+  path: Assets/Goobers/Prefabs/Extra_Package/Static/Obstakles by parts/Fan_1.prefab
+  artifactKey: Guid(0d7e24a29419a3d438a90a80d45384b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Goobers/Prefabs/Extra_Package/Static/Obstakles by parts/Fan_1.prefab using Guid(0d7e24a29419a3d438a90a80d45384b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f830141b3cc29af92ea1af2466c40904') in 0.011736 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 15.805128 seconds.
-  path: Assets/Scenes/Demo.unity
-  artifactKey: Guid(1ebc65029ab382544bcf1a3f53ce9364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Demo.unity using Guid(1ebc65029ab382544bcf1a3f53ce9364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d6954fcd6ff141aa8d333a8087198e5') in 0.002723 seconds 
+  Time since last request: 0.012809 seconds.
+  path: Assets/Goobers/Prefabs/Extra_Package/Static/Obstakles by parts/Platform Circle Rotated_2.prefab
+  artifactKey: Guid(5d0aefff576d4444395bdfd4c6b0df01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Goobers/Prefabs/Extra_Package/Static/Obstakles by parts/Platform Circle Rotated_2.prefab using Guid(5d0aefff576d4444395bdfd4c6b0df01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ad4746cb9b51a975cc9cf0287fa390d') in 0.012371 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.925090 seconds.
-  path: Assets/Scenes/Color_Changed/LD3 1.unity
-  artifactKey: Guid(9768f313cb5ee8a47ac3e49ba15624ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Color_Changed/LD3 1.unity using Guid(9768f313cb5ee8a47ac3e49ba15624ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0cd9324fd64ad6c37098cfa44ae7963') in 0.005399 seconds 
+  Time since last request: 0.016585 seconds.
+  path: Assets/Goobers/Prefabs/Extra_Package/Static/Obstakles by parts/Stick Small_2.prefab
+  artifactKey: Guid(2bb1425ff5bd9ca4d9b515113ebcb011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Goobers/Prefabs/Extra_Package/Static/Obstakles by parts/Stick Small_2.prefab using Guid(2bb1425ff5bd9ca4d9b515113ebcb011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98fe3d7096c852b73cd79ad10c7dd100') in 0.011652 seconds 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.112792 seconds.
+Received Import Request.
+  Time since last request: 0.005175 seconds.
+  path: Assets/Goobers/Prefabs/Extra_Package/Static/Obstakles by parts/Hammer Rotated.prefab
+  artifactKey: Guid(fde6bc9efcacde045a0dfba11adc93e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Goobers/Prefabs/Extra_Package/Static/Obstakles by parts/Hammer Rotated.prefab using Guid(fde6bc9efcacde045a0dfba11adc93e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '811390e0914e470858c31d44c46d8075') in 0.012360 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007058 seconds.
+  path: Assets/Goobers/Prefabs/Extra_Package/Static/Environment/Floor/Road Straight_37.prefab
+  artifactKey: Guid(da6777f60baa0a341a0558dff7df4f03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Goobers/Prefabs/Extra_Package/Static/Environment/Floor/Road Straight_37.prefab using Guid(da6777f60baa0a341a0558dff7df4f03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f48c1f802d66ca28e8b30e6fa4856216') in 0.020731 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011930 seconds.
+  path: Assets/Goobers/Prefabs/Extra_Package/Static/Environment/Props/Wall_4.prefab
+  artifactKey: Guid(022a0c4e72450c5419a1b3854ad86c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Goobers/Prefabs/Extra_Package/Static/Environment/Props/Wall_4.prefab using Guid(022a0c4e72450c5419a1b3854ad86c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df65d10df19bd45090f38abecb7f6b49') in 0.011884 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 258.505584 seconds.
+  path: Assets/Goobers/Script/Scripts/FPSDisplay.cs
+  artifactKey: Guid(703aeb03ab7f5004396422c86197fd6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Goobers/Script/Scripts/FPSDisplay.cs using Guid(703aeb03ab7f5004396422c86197fd6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61b811cff1c9a2d35a53da5cd769ef52') in 0.006669 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010110 seconds.
+  path: Assets/ExtraPackage/AllIn1SpriteShader/Demo/Scripts/DemoItem.cs
+  artifactKey: Guid(98b644315d7a92842b89e04f55c48e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/AllIn1SpriteShader/Demo/Scripts/DemoItem.cs using Guid(98b644315d7a92842b89e04f55c48e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03823062f696b25fe1d0f3c5b0d3172a') in 0.004433 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.058337 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Battle Royale Show/Scripts/WNDRotator.cs
+  artifactKey: Guid(bca6cd1b8d603a3468ef47006920431c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Battle Royale Show/Scripts/WNDRotator.cs using Guid(bca6cd1b8d603a3468ef47006920431c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21a7bc8e50d00e1c47e7daab636b3f63') in 0.003792 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.037007 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/Scripts/HYPEPOLY_ScalerSystem.cs
+  artifactKey: Guid(07469864813c8f843b7dc8804efcca18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/Scripts/HYPEPOLY_ScalerSystem.cs using Guid(07469864813c8f843b7dc8804efcca18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5ecd2f0483a78dbac89cdfd1bc71aba') in 0.004285 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010440 seconds.
+  path: Assets/Goobers/Script/Camera/CameraMovement.cs
+  artifactKey: Guid(cf0574ed01390ed4e95a1d0aa78de7a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Goobers/Script/Camera/CameraMovement.cs using Guid(cf0574ed01390ed4e95a1d0aa78de7a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e235aeb537dda5d632b4997eee01f74') in 0.004104 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.032846 seconds.
+  path: Assets/Goobers/Script/Scripts/FallPlat.cs
+  artifactKey: Guid(db47ad08e8ae12842a3615a04e1aa0d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Goobers/Script/Scripts/FallPlat.cs using Guid(db47ad08e8ae12842a3615a04e1aa0d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34c83793170ed287b4e96c18e1c6ae05') in 0.004378 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.006047 seconds.
+  path: Assets/ExtraPackage/AllIn1SpriteShader/Editor/AllIn1ShaderGradientDrawer.cs
+  artifactKey: Guid(c51263ea47edd3641a26e5f242925bcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/AllIn1SpriteShader/Editor/AllIn1ShaderGradientDrawer.cs using Guid(c51263ea47edd3641a26e5f242925bcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83fa3dde8c25aae5fbe56785a5cff2bd') in 0.004144 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.042530 seconds.
+  path: Assets/Goobers/Script/Scripts/SavePos.cs
+  artifactKey: Guid(ddcc474d7e3a6e34cb3a432c87afa9f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Goobers/Script/Scripts/SavePos.cs using Guid(ddcc474d7e3a6e34cb3a432c87afa9f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6886c2d6b4eafa9ed563c67412e1492') in 0.003998 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.060597 seconds.
+  path: Assets/ExtraPackage/AllIn1SpriteShader/Demo/Scripts/DemoRepositionExpositor.cs
+  artifactKey: Guid(681095680e77fad40a6dd907b8ba358b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/AllIn1SpriteShader/Demo/Scripts/DemoRepositionExpositor.cs using Guid(681095680e77fad40a6dd907b8ba358b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '403644869dcff7d3fc2dcf4d21865f14') in 0.004214 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013255 seconds.
+  path: Assets/ExtraPackage/AllIn1SpriteShader/Scripts/AllIn1ShaderWindow.cs
+  artifactKey: Guid(b642652081667ab4fad9f2579fec0e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/AllIn1SpriteShader/Scripts/AllIn1ShaderWindow.cs using Guid(b642652081667ab4fad9f2579fec0e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf526c37bdee779a3fdee798ecaccdfe') in 0.004647 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.042450 seconds.
+  path: Assets/ExtraPackage/AllIn1SpriteShader/Demo/Scripts/DemoRandomColorSwap.cs
+  artifactKey: Guid(4ef3964599ee48c4ea5a4ecf012ed949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/AllIn1SpriteShader/Demo/Scripts/DemoRandomColorSwap.cs using Guid(4ef3964599ee48c4ea5a4ecf012ed949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bc1e80621a81498826b22a8a0fd32a3') in 0.004320 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.073326 seconds.
+  path: Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs
+  artifactKey: Guid(dae9aa560b4242648a3affa2bfabc365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs using Guid(dae9aa560b4242648a3affa2bfabc365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38a4adcb165e86845125a00ed7f09d7c') in 0.004882 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.005073 seconds.
+  path: Assets/ExtraPackage/AllIn1SpriteShader/Scripts/AllIn1Shader.cs
+  artifactKey: Guid(ee158225ee1e59f4791627785501d950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/AllIn1SpriteShader/Scripts/AllIn1Shader.cs using Guid(ee158225ee1e59f4791627785501d950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d1d6e516f746a09edb062cdf9b3b232') in 0.005025 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022326 seconds.
+  path: Assets/ExtraPackage/AllIn1SpriteShader/Demo/Scripts/AllIn1ScrollProperty.cs
+  artifactKey: Guid(384dba07353e1f242b467b6857a1e3d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/AllIn1SpriteShader/Demo/Scripts/AllIn1ScrollProperty.cs using Guid(384dba07353e1f242b467b6857a1e3d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d10053097cb8e623888f64149bb5547') in 0.005194 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.050449 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Battle Royale Show/Scripts/WNDParticlesDestroyer.cs
+  artifactKey: Guid(6b3441c771a74e946a83abcc1e3c6ba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Battle Royale Show/Scripts/WNDParticlesDestroyer.cs using Guid(6b3441c771a74e946a83abcc1e3c6ba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '852448c386674cb3b26a8eab51840811') in 0.004569 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.034446 seconds.
+  path: Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs
+  artifactKey: Guid(230fe34542e175245ba74b4659dae700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs using Guid(230fe34542e175245ba74b4659dae700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '762e5837bddcd0d35e99c38f2c39c379') in 0.004883 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.050799 seconds.
+  path: Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs
+  artifactKey: Guid(b766d08851589514b97afb23c6f30a70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs using Guid(b766d08851589514b97afb23c6f30a70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3c8fb1c1bef986bb7abc9a612db1a2b') in 0.005682 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.049918 seconds.
+  path: Assets/ExtraPackage/AllIn1SpriteShader/Editor/AllIn1ShaderScriptEditor.cs
+  artifactKey: Guid(78232fc1cf0e9c445a36b7bf7fc49fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/AllIn1SpriteShader/Editor/AllIn1ShaderScriptEditor.cs using Guid(78232fc1cf0e9c445a36b7bf7fc49fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18e4d6d42512900b4d973323e563ea24') in 0.004205 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.055049 seconds.
+  path: Assets/Goobers/Script/Scripts/WallMovable.cs
+  artifactKey: Guid(d1b853b256fdd1042875fb0efeac2fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Goobers/Script/Scripts/WallMovable.cs using Guid(d1b853b256fdd1042875fb0efeac2fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1759ed51f3cfe5d2a4c0e638a77f4e79') in 0.004100 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012089 seconds.
+  path: Assets/ExtraPackage/AllIn1SpriteShader/Scripts/All1CreateUnifiedOutline.cs
+  artifactKey: Guid(264cca4d0f5bbb54eb9de18ca54d1506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/AllIn1SpriteShader/Scripts/All1CreateUnifiedOutline.cs using Guid(264cca4d0f5bbb54eb9de18ca54d1506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4d693f17b6a0c60db9697c5c0a5f7a8') in 0.004705 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003814 seconds.
+  path: Assets/ExtraPackage/AllIn1SpriteShader/Demo/Scripts/All1TextureOffsetOverTime.cs
+  artifactKey: Guid(f3804424ee2f162418d9294faf7ba055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/AllIn1SpriteShader/Demo/Scripts/All1TextureOffsetOverTime.cs using Guid(f3804424ee2f162418d9294faf7ba055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d79da89b41338bd8d658ac450cb7324') in 0.003889 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004304 seconds.
+  path: Assets/ExtraPackage/AllIn1SpriteShader/Demo/Scripts/DemoCamera.cs
+  artifactKey: Guid(fcb2e887baa071545bad04c7b0e87cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/AllIn1SpriteShader/Demo/Scripts/DemoCamera.cs using Guid(fcb2e887baa071545bad04c7b0e87cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfe9405719c174b4578548b405dfadd4') in 0.003962 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014001 seconds.
+  path: Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUtils.cs
+  artifactKey: Guid(7bcaf917d9cf5b84090421a5a2abe42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUtils.cs using Guid(7bcaf917d9cf5b84090421a5a2abe42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0fbd8c566ef7775565c12d326c22c89') in 0.003936 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017947 seconds.
+  path: Assets/ExtraPackage/AllIn1SpriteShader/Demo/Scripts/DemoCircleExpositor.cs
+  artifactKey: Guid(6972382efdee4c642812251660f0c4bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/AllIn1SpriteShader/Demo/Scripts/DemoCircleExpositor.cs using Guid(6972382efdee4c642812251660f0c4bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcb87dd8eba974d7a92eddbd70fb0db2') in 0.003859 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022096 seconds.
+  path: Assets/ExtraPackage/AllIn1SpriteShader/Scripts/SetAtlasUvs.cs
+  artifactKey: Guid(1625263d85e5d554284989eb9052e863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/AllIn1SpriteShader/Scripts/SetAtlasUvs.cs using Guid(1625263d85e5d554284989eb9052e863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4ad89be665652eed69ef711ac864fc8') in 0.003957 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.123604 seconds.
+  path: Assets/Goobers/Script/Obstacle/Fan.cs
+  artifactKey: Guid(4214d2491e1aa8642b29bb1bfb02111a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Goobers/Script/Obstacle/Fan.cs using Guid(4214d2491e1aa8642b29bb1bfb02111a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f97571c5b4c14e20b94f2b86dce0b57') in 0.003892 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.107509 seconds.
+  path: Assets/ExtraPackage/AllIn1SpriteShader/Scripts/SetGlobalTimeNew.cs
+  artifactKey: Guid(c6c0770c7b77d3f45ab8c8d42b794c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/AllIn1SpriteShader/Scripts/SetGlobalTimeNew.cs using Guid(c6c0770c7b77d3f45ab8c8d42b794c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66ce5fd0f82c87c0c8c21867fd998f22') in 0.003989 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007911 seconds.
+  path: Assets/ExtraPackage/AllIn1SpriteShader/Demo/Scripts/All1ShaderDemoController.cs
+  artifactKey: Guid(b549ed925b49d274c876184f60faabdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/AllIn1SpriteShader/Demo/Scripts/All1ShaderDemoController.cs using Guid(b549ed925b49d274c876184f60faabdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fa1aaa8732ee1088f99f3b65c98b5f8') in 0.003994 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.080792 seconds.
+  path: Assets/Goobers/Script/Scripts/KillZone.cs
+  artifactKey: Guid(67bfcab377c9f144595528b0b8ec1fd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Goobers/Script/Scripts/KillZone.cs using Guid(67bfcab377c9f144595528b0b8ec1fd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2de0bd900380ad7fb46b8b1d3a19ea7') in 0.003870 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007140 seconds.
+  path: Assets/ExtraPackage/AllIn1SpriteShader/Editor/AllIn1SpriteShaderMaterialInspector.cs
+  artifactKey: Guid(f42211545c188ae41b1e35cc1ce38187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/AllIn1SpriteShader/Editor/AllIn1SpriteShaderMaterialInspector.cs using Guid(f42211545c188ae41b1e35cc1ce38187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21d33027a438b40b2eb950686b1ab632') in 0.004105 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.052086 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Battle Royale Show/Scripts/WNDMoover.cs
+  artifactKey: Guid(a92673b725b70db4089840173c269bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Battle Royale Show/Scripts/WNDMoover.cs using Guid(a92673b725b70db4089840173c269bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '438072c09daa297acff0c5f70c1751fd') in 0.003896 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021154 seconds.
+  path: Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUI.cs
+  artifactKey: Guid(a060394c03331a64392db53a10e7f2d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUI.cs using Guid(a060394c03331a64392db53a10e7f2d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84578139f4aaca1a88d90e32cd26da92') in 0.004458 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009842 seconds.
+  path: Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleEPOOutline.cs
+  artifactKey: Guid(e944529dcaee98f4e9498d80e541d93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleEPOOutline.cs using Guid(e944529dcaee98f4e9498d80e541d93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfb2e316302b4813dcaaa99c18ce8a27') in 0.004154 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003780 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Battle Royale Show/Scripts/WNDPrefabVariator.cs
+  artifactKey: Guid(535cf7513e853b646bc31563110eaa08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Battle Royale Show/Scripts/WNDPrefabVariator.cs using Guid(535cf7513e853b646bc31563110eaa08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1a60ebe006869582ac1f2675544f2bd') in 0.004046 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003564 seconds.
+  path: Assets/Goobers/Script/Obstacle/Patroling.cs
+  artifactKey: Guid(2008faa36b1f51949bf120bdd6c1f673) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Goobers/Script/Obstacle/Patroling.cs using Guid(2008faa36b1f51949bf120bdd6c1f673) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fec43c9b9162b75bbe1dc27d8baafb85') in 0.003999 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.033875 seconds.
+  path: Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs
+  artifactKey: Guid(63c02322328255542995bd02b47b0457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs using Guid(63c02322328255542995bd02b47b0457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71bda9d9a089c84f04df1b0a6395fe4b') in 0.003898 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012416 seconds.
+  path: Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs
+  artifactKey: Guid(188918ab119d93148aa0de59ccf5286b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs using Guid(188918ab119d93148aa0de59ccf5286b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90c01e3672939eed4653dc1bbdd30a48') in 0.004016 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004130 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Battle Royale Show/Scripts/WNDDispenser.cs
+  artifactKey: Guid(79665f79a1bb4c542b0eef5a9e25fef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Battle Royale Show/Scripts/WNDDispenser.cs using Guid(79665f79a1bb4c542b0eef5a9e25fef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6cf7b1043465bd0d2a1d2724f0c4cea') in 0.004436 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.033866 seconds.
+  path: Assets/ExtraPackage/AllIn1SpriteShader/Editor/AllIn1SpriteShaderUiMaskMaterialInspector.cs
+  artifactKey: Guid(bcdb12210426bb34cb44a19ffb54132d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/AllIn1SpriteShader/Editor/AllIn1SpriteShaderUiMaskMaterialInspector.cs using Guid(bcdb12210426bb34cb44a19ffb54132d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94c6dd92b9e21e967ab9c0d9d4d19b46') in 0.003841 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016587 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/Scripts/HYPEPOLY_TilesMapGenerator.cs
+  artifactKey: Guid(3b539bd35a8a5414e9eebf979c4ec121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Isometric Tiles Sands/Demo/Scripts/HYPEPOLY_TilesMapGenerator.cs using Guid(3b539bd35a8a5414e9eebf979c4ec121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e87caff582aec9e077b6af6db152920') in 0.003955 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003628 seconds.
+  path: Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll
+  artifactKey: Guid(45d5034162d6cf04dbe46da84fc7d074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll using Guid(45d5034162d6cf04dbe46da84fc7d074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1a5a8e8b26268d33e8b98768a27d445') in 0.007842 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.113065 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Battle Royale Show/Editor/WNDPrefabVariatorEditor.cs
+  artifactKey: Guid(0be170968a2504c4d8036ce169b6550c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Battle Royale Show/Editor/WNDPrefabVariatorEditor.cs using Guid(0be170968a2504c4d8036ce169b6550c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d87364d6a4c1fc5ef806d4a59cc8a6c') in 0.004492 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004696 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Battle Royale Show/Demo/Scripts/WNDDisabler.cs
+  artifactKey: Guid(cd391d19b46dccf4c8d249a6214e3686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Battle Royale Show/Demo/Scripts/WNDDisabler.cs using Guid(cd391d19b46dccf4c8d249a6214e3686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '150f9eb9bcda2a3f54e30de6987fdf3a') in 0.003836 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.005554 seconds.
+  path: Assets/ExtraPackage/AllIn1SpriteShader/Demo/Scripts/Demo2AutoScroll.cs
+  artifactKey: Guid(cc188be2d64e8d041aed6f375d92c463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/AllIn1SpriteShader/Demo/Scripts/Demo2AutoScroll.cs using Guid(cc188be2d64e8d041aed6f375d92c463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '860feaa5f9ae8966b05498df4d0dc2da') in 0.003907 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013123 seconds.
+  path: Assets/ExtraPackage/AllIn1SpriteShader/Scripts/RandomSeed.cs
+  artifactKey: Guid(6078fd4d3c5bd6f4087f8869458662dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/AllIn1SpriteShader/Scripts/RandomSeed.cs using Guid(6078fd4d3c5bd6f4087f8869458662dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7913595235b350ae95ecd680309e49c') in 0.006940 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.152621 seconds.
+  path: Assets/ExtraPackage/AllIn1SpriteShader/Scripts/SetGlobalTimeUnity2018.cs
+  artifactKey: Guid(ee7031a07aea7674fad9a0795b193f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/AllIn1SpriteShader/Scripts/SetGlobalTimeUnity2018.cs using Guid(ee7031a07aea7674fad9a0795b193f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb52556f95794d9f1c43447702736e0b') in 0.004265 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003460 seconds.
+  path: Assets/ExtraPackage/HYPEPOLY - Battle Royale Show/Scripts/WNDParticlesSpawner.cs
+  artifactKey: Guid(b7e9309170789d94b9ba0623033f075f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraPackage/HYPEPOLY - Battle Royale Show/Scripts/WNDParticlesSpawner.cs using Guid(b7e9309170789d94b9ba0623033f075f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae7acdfa0bd7761ff442ae28bb85861d') in 0.004043 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
